@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <Platform Name="ARM" />
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="9-25-数据存储-整形储存/9-25-数据存储-整形储存.vcxproj" Id="cea3faf3-316f-4ac9-bfbe-2df2c2e41595">
+    <Platform Solution="*|x86" Project="x86" />
+    <Deploy />
+  </Project>
+</Solution>
